@@ -1,0 +1,2 @@
+status,checked_date,tickers_checked,note
+NO DATA — outside reporting season,2026-07-02,100,"psxdata.fundamentals() returned empty for all KSE-100 tickers. Next expected filing window: half-yearly results, Aug-Sep 2026. Retry this cell after that window opens."

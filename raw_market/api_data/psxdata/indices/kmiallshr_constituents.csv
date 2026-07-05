@@ -1,0 +1,310 @@
+,symbol,name,ldcp,current,change,change_pct,idx_weight,idx_point,volume,shares_m,market_cap_m
+0,AASMNC,Al-Abid Silk Mills Limited,3.49,3.49,0.34,10.79%,0.0,0.0,0,13.0,47.0
+1,ABOT,Abbott Laboratories (Pakistan) Limited,995.32,995.32,10.93,1.11%,0.73,0.0,"195,901",98.0,97442.0
+2,ACPL,Attock Cement Pakistan Limited,220.87,220.87,4.10,1.89%,0.23,0.0,"24,973",137.0,30353.0
+3,ADAMS,Adam Sugar Mills Limited,65.17,65.17,0.34,0.52%,0.01,0.0,"4,076",17.0,1127.0
+4,AGIL,Agriauto Industries Limited,170.73,170.73,-0.26,-0.15%,0.05,0.0,"29,090",36.0,6146.0
+5,AGP,AGP Limited,210.28,210.28,3.95,1.91%,0.44,0.0,"859,748",280.0,58878.0
+6,AGTL,Al-Ghazi Tractors Limited,408.32,408.32,1.21,0.30%,0.18,0.0,"41,769",58.0,23668.0
+7,AHTM,Ahmad Hassan Textile Mills Limited,93.49,93.49,0.00,0.00%,0.01,0.0,272,8.0,792.0
+8,AIRLINK,Air Link Communication Limited,158.59,158.59,1.65,1.05%,0.47,0.0,"2,063,854",395.0,62686.0
+9,AKGL,Al-Khair Gadoon Limited,53.12,53.12,0.00,0.00%,0.0,0.0,6,10.0,531.0
+10,ALNRS,Al-Noor Sugar Mills Limited,128.51,128.51,0.18,0.14%,0.02,0.0,"2,228",20.0,2631.0
+11,ANL,Azgard Nine Limited,11.19,11.19,0.09,0.81%,0.04,0.0,"950,447",485.0,5432.0
+12,ANTM,AN Textile Mills Limited,37.46,37.46,-1.94,-4.92%,0.0,0.0,"3,257",10.0,362.0
+13,ARCTM,Arctic Textile Mills Limited,42.83,42.83,-0.05,-0.12%,0.0,0.0,"205,953",13.0,564.0
+14,ARPL,Archroma Pakistan Limited,398.30,398.30,-1.70,-0.43%,0.1,0.0,899,35.0,13767.0
+15,ASCNC,Al Shaheer Corporation Limited,13.17,13.17,-0.32,-2.37%,0.04,0.0,"5,033,499",375.0,4938.0
+16,ASHT,Ashfaq Textile Mills Limited,36.04,36.04,-0.26,-0.72%,0.01,0.0,"2,852",47.0,1678.0
+17,ASL,Aisha Steel Mills Limited,13.07,13.07,-0.07,-0.53%,0.09,0.0,"923,694",931.0,12165.0
+18,ASTM,Asim Textile Mills Limited,25.70,25.70,2.34,10.02%,0.0,0.0,"22,122",15.0,390.0
+19,ATBA,Atlas Battery Limited,217.86,217.86,-1.23,-0.56%,0.06,0.0,"38,219",35.0,7629.0
+20,ATRL,Attock Refinery Limited,873.63,873.63,22.96,2.70%,0.7,0.0,"281,596",107.0,93143.0
+21,AVN,Avanceon Limited,36.19,36.19,0.15,0.42%,0.12,0.0,"693,563",430.0,15550.0
+22,AWTX,Allawasaya Tex. & Finishing Mills Ltd,"1,552.05","1,552.05",0.00,0.00%,0.01,0.0,0,1.0,1242.0
+23,BAFS,Baba Farid Sugar Mills Limited,291.79,291.79,6.67,2.34%,0.02,0.0,542,9.0,2757.0
+24,BATA,Bata Pakistan Limited,"1,002.51","1,002.51",-6.31,-0.62%,0.06,0.0,"2,194",8.0,7579.0
+25,BBFL,Big Bird Foods Limited,46.16,46.16,0.13,0.28%,0.1,0.0,"224,507",299.0,13797.0
+26,BCL,Bolan Castings Limited,78.55,78.55,0.51,0.65%,0.01,0.0,"15,808",11.0,901.0
+27,BECO,Beco Steel Limited,5.39,5.39,0.00,0.00%,0.05,0.0,"2,394,075",1250.0,6735.0
+28,BERG,Berger Paints Pakistan Limited,116.29,116.29,-3.64,-3.03%,0.02,0.0,"292,904",25.0,2855.0
+29,BFAGRO,Barkat Frisian Agro Limited,37.90,37.90,1.47,4.04%,0.09,0.0,"4,319,999",310.0,11749.0
+30,BFBIO,BF Biosciences Limited,143.80,143.80,0.92,0.64%,0.1,0.0,"129,647",88.0,12702.0
+31,BFMOD,B.F. Modaraba,22.44,22.44,-0.16,-0.71%,0.0,0.0,"30,359",8.0,169.0
+32,BHAT,Bhanero Textile Mills Limited,862.51,862.51,0.00,0.00%,0.02,0.0,2,3.0,2623.0
+33,BIFO,Biafo Industries Limited,131.67,131.67,-2.19,-1.64%,0.05,0.0,"409,105",46.0,6107.0
+34,BIPL,BankIslami Pakistan Limited,27.44,27.44,0.43,1.59%,0.23,0.0,"4,022,548",1109.0,30423.0
+35,BLUEX,Blue-Ex Limited,9.16,9.16,1.00,12.26%,0.02,0.0,"1,611,615",284.0,2604.0
+36,BNL,Bunnys Limited,7.16,7.16,0.10,1.42%,0.04,0.0,"4,123,912",668.0,4783.0
+37,BNWM,Bannu Woollen Mills Limited,66.08,66.08,-0.70,-1.05%,0.0,0.0,"4,830",10.0,628.0
+38,BPL,Burshane LPG (Pakistan) Limited,57.17,57.17,-1.12,-1.92%,0.01,0.0,"48,783",22.0,1286.0
+39,BTL,Blessed Textiles Limited,"1,138.26","1,138.26",-1.47,-0.13%,0.06,0.0,23,6.0,7321.0
+40,BUXL,Buxly Paints Limited,238.68,238.68,-10.78,-4.32%,0.0,0.0,"169,299",1.0,344.0
+41,BWHL,Baluchistan Wheels Limited,229.30,229.30,11.77,5.41%,0.02,0.0,"147,778",13.0,3058.0
+42,CCM,Crescent Cotton Mills Limited,42.07,42.07,0.50,1.20%,0.01,0.0,"2,406",23.0,953.0
+43,CEPB,Century Paper & Board Mills Limited,31.17,31.17,1.30,4.35%,0.09,0.0,"1,448,420",402.0,12521.0
+44,CFL,Crescent Fibres Limited,59.33,59.33,2.45,4.31%,0.01,0.0,"2,187",12.0,737.0
+45,CHAS,Chashma Sugar Mills Limited,133.14,133.14,10.70,8.74%,0.03,0.0,"208,655",29.0,3820.0
+46,CHCC,Cherat Cement Company Limited,346.69,346.69,0.76,0.22%,0.51,0.0,"1,488,155",194.0,67360.0
+47,CLOV,Clover Pakistan Limited,8.26,8.26,0.11,1.35%,0.02,0.0,"1,900,323",389.0,3216.0
+48,CNERGY,Cnergyico PK  Limited,8.21,8.21,0.04,0.49%,0.34,0.0,"11,320,214",5493.0,45101.0
+49,COLG,Colgate-Palmolive (Pakistan) Limited,"1,262.27","1,262.27",17.75,1.43%,2.31,0.0,"8,637",243.0,306445.0
+50,CPHL,Citi Pharma Ltd.,78.80,78.80,0.93,1.19%,0.14,0.0,"1,057,749",228.0,18003.0
+51,CPPL,Cherat Packaging Limited,100.03,100.03,1.81,1.84%,0.04,0.0,"28,254",49.0,4911.0
+52,CRTM,The Crescent Textile Mills Limited,69.00,69.00,1.59,2.36%,0.05,0.0,"14,728",100.0,6900.0
+53,CSAP,Crescent Steel & Allied Products Limited,112.45,112.45,-1.65,-1.45%,0.07,0.0,"929,417",78.0,8730.0
+54,DAAG,Data Agro Limited,90.74,90.74,-1.53,-1.66%,0.0,0.0,"1,414",4.0,363.0
+55,DADX,Dadex Eternit Limited,100.73,100.73,4.19,4.34%,0.01,0.0,"7,284",11.0,1084.0
+56,DBSLNC,Dadabhoy Sack Limited,7.00,7.00,0.00,0.00%,0.0,0.0,0,4.0,28.0
+57,DCL,Dewan Cement Limited,11.83,11.83,0.39,3.41%,0.04,0.0,"7,361,106",484.0,5727.0
+58,DCR,Dolmen City REIT,38.17,38.17,-0.28,-0.73%,0.64,0.0,"609,121",2224.0,84879.0
+59,DFSM,Dewan Farooque Spinning Mills Limited,24.69,24.69,-1.31,-5.04%,0.02,0.0,"5,727,277",98.0,2413.0
+60,DGKC,D.G. Khan Cement Company Limited,227.14,227.14,3.87,1.73%,0.75,0.0,"8,336,417",438.0,99514.0
+61,DINT,Din Textile Mills Limited,78.07,78.07,-3.02,-3.72%,0.03,0.0,869,52.0,4096.0
+62,DMC,D.M. Corporation Limited.,208.44,208.44,0.00,0.00%,0.0,0.0,45,3.0,636.0
+63,DNCC,Dandot Cement Company Limited,19.69,19.69,0.09,0.46%,0.05,0.0,"176,074",316.0,6229.0
+64,DOL,Descon Oxychem Limited,32.05,32.05,0.56,1.78%,0.04,0.0,"191,421",175.0,5610.0
+65,DSLNC,Dost Steels Limited,5.32,5.32,0.00,0.00%,0.02,0.0,"4,855,448",445.0,2366.0
+66,DWSMNC,Dewan Sugar Mills Limited,6.86,6.86,0.10,1.48%,0.0,0.0,"60,171",92.0,628.0
+67,DYNO,Dynea Pakistan Limited,344.67,344.67,7.67,2.28%,0.05,0.0,"5,427",19.0,6505.0
+68,ECOP,Ecopack Limited,57.49,57.49,-1.03,-1.76%,0.02,0.0,"270,412",48.0,2774.0
+69,EFERT,Engro Fertilizers Limited,199.87,199.87,0.92,0.46%,2.01,0.0,"1,158,607",1335.0,266886.0
+70,ELCM,Elahi Cotton Mills Limited,275.74,275.74,-13.07,-4.52%,0.0,0.0,743,1.0,358.0
+71,ELSM,Ellcot Spinning Mills Limited,120.04,120.04,0.00,0.00%,0.01,0.0,0,11.0,1314.0
+72,EMCO,Emco Industries Limited,49.46,49.46,0.14,0.28%,0.01,0.0,"17,783",35.0,1731.0
+73,ENGROH,Engro Holdings Limited,294.09,294.09,6.37,2.21%,2.67,0.0,"4,794,478",1204.0,354153.0
+74,EPCL,Engro Polymer & Chemicals Limited,35.13,35.13,1.32,3.90%,0.24,0.0,"2,283,968",909.0,31930.0
+75,EPQL,Engro Powergen Qadirpur Limited,25.16,25.16,-0.01,-0.04%,0.06,0.0,"548,973",324.0,8147.0
+76,EXIDE,Exide Pakistan Limited,542.12,542.12,-2.32,-0.43%,0.03,0.0,"11,104",8.0,4212.0
+77,FABL,Faysal Bank Limited,101.46,101.46,2.22,2.24%,1.16,0.0,"3,545,453",1518.0,153985.0
+78,FANM,First Al-Noor Modaraba,7.53,7.53,0.50,7.11%,0.0,0.0,"424,879",23.0,174.0
+79,FASM,Faisal Spinning Mills Limited,323.76,323.76,0.00,0.00%,0.02,0.0,305,10.0,3238.0
+80,FATIMA,Fatima Fertilizer Company Limited,161.12,161.12,-4.18,-2.53%,2.55,0.0,"3,152,778",2100.0,338352.0
+81,FCCL,Fauji Cement Company Limited,59.28,59.28,1.73,3.01%,1.09,0.0,"10,591,055",2453.0,145405.0
+82,FCEPL,Frieslandcampina Engro Pakistan Limited,112.76,112.76,-1.23,-1.08%,0.65,0.0,"769,952",767.0,86441.0
+83,FCL,Fast Cables Limited,24.87,24.87,0.68,2.81%,0.12,0.0,"7,290,591",645.0,16031.0
+84,FECM,First Elite Capital Modaraba,17.33,17.33,0.19,1.11%,0.0,0.0,"7,781",11.0,197.0
+85,FECTC,Fecto Cement Limited,121.70,121.70,4.94,4.23%,0.05,0.0,"680,828",50.0,6104.0
+86,FEM,First Equity Modaraba,10.98,10.98,-0.04,-0.36%,0.0,0.0,"32,196",52.0,576.0
+87,FEROZ,Ferozsons Laboratories Limited,410.69,410.69,7.51,1.86%,0.13,0.0,"37,372",43.0,17852.0
+88,FFC,Fauji Fertilizer Company Limited,572.17,572.17,-1.31,-0.23%,6.2,0.0,"2,106,457",1439.0,823366.0
+89,FFL,Fauji Foods Limited,17.85,17.85,-0.03,-0.17%,0.34,0.0,"3,717,659",2520.0,44981.0
+90,FFLM,First Fidelity Leasing Modaraba,24.27,24.27,2.21,10.02%,0.0,0.0,"898,466",26.0,641.0
+91,FHAM,First Habib Modaraba,33.50,33.50,-0.23,-0.68%,0.03,0.0,"141,093",111.0,3713.0
+92,FIBLM,First IBL Modaraba,11.70,11.70,0.30,2.63%,0.0,0.0,"26,480",22.0,254.0
+93,FILNC,Fateh Industries Limited,242.24,242.24,22.02,10.00%,0.0,0.0,"4,995",2.0,484.0
+94,FIMM,First Imrooz Modaraba,215.92,215.92,0.00,0.00%,0.0,0.0,73,3.0,648.0
+95,FLYNG,Flying Cement Company Limited,44.48,44.48,0.34,0.77%,0.23,0.0,"10,067",695.0,30905.0
+96,FML,Feroze1888 Mills Limited,58.74,58.74,-1.01,-1.69%,0.18,0.0,"139,194",399.0,23461.0
+97,FNBMNC,First National Bank Modaraba,0.64,0.64,0.00,0.00%,0.0,0.0,0,25.0,16.0
+98,FPJM,First Punjab Modaraba,7.97,7.97,-0.03,-0.37%,0.0,0.0,"109,535",34.0,271.0
+99,FPRM,First Paramount Modaraba,14.07,14.07,1.28,10.01%,0.0,0.0,"175,345",14.0,194.0
+100,FRCL,Frontier Ceramics Limited,86.52,86.52,7.87,10.01%,0.02,0.0,"26,405",38.0,3277.0
+101,FRSM,Faran Sugar Mills Limited,45.97,45.97,0.37,0.81%,0.01,0.0,831,40.0,1816.0
+102,FTMM,First Treet Manufacturing Modaraba,17.55,17.55,0.75,4.46%,0.03,0.0,"29,162",196.0,3433.0
+103,FTSM,First Tri-Star Modaraba,38.65,38.65,-4.25,-9.91%,0.01,0.0,"614,998",21.0,818.0
+104,FZCM,Fazal Cloth Mills Limited,260.48,260.48,3.70,1.44%,0.06,0.0,"13,367",30.0,7814.0
+105,GADT,Gadoon Textile Mills Limited,312.74,312.74,6.75,2.21%,0.07,0.0,"90,711",28.0,8766.0
+106,GAL,Ghandhara Automobiles Limited,583.21,583.21,21.19,3.77%,0.25,0.0,"2,797,731",57.0,33244.0
+107,GATI,Gatron (Industries) Limited,88.52,88.52,-0.18,-0.20%,0.07,0.0,"20,300",109.0,9625.0
+108,GATM,Gul Ahmed Textile Mills Limited,30.26,30.26,-0.23,-0.75%,0.17,0.0,"1,269,411",740.0,22394.0
+109,GCIL,Ghani Chemical Industries Limited,35.44,35.44,-0.09,-0.25%,0.15,0.0,"10,084,070",570.0,20217.0
+110,GCWL,Ghani Chemworld Limited,16.76,16.76,0.32,1.95%,0.03,0.0,"979,503",250.0,4192.0
+111,GDL,Ghani Dairies Limited,20.02,20.02,0.07,0.35%,0.06,0.0,"1,878,222",429.0,8593.0
+112,GEMBCEM,Burj Clean Energy Modaraba(GEM),11.50,11.50,0.50,4.55%,0.01,0.0,0,100.0,1150.0
+113,GEMMEL,Mughal Energy Limited(GEM),22.48,22.48,0.00,0.00%,0.03,0.0,0,194.0,4363.0
+114,GEMPACRA,The Pakistan Credit Rating Agency Ltd,49.00,49.00,0.00,0.00%,0.03,0.0,20,75.0,3652.0
+115,GEMPAPL,Pak Agro Packaging Limited(GEM),12.95,12.95,0.54,4.35%,0.0,0.0,"116,675",20.0,259.0
+116,GFIL,Ghazi Fabrics International Limited,31.61,31.61,0.40,1.28%,0.01,0.0,"31,010",33.0,1032.0
+117,GGGL,Ghani Global Glass Limited,9.26,9.26,0.14,1.54%,0.02,0.0,"890,153",240.0,2222.0
+118,GGL,Ghani Global Holdings Limited,24.11,24.11,0.74,3.17%,0.06,0.0,"3,725,811",354.0,8538.0
+119,GHGL,Ghani Glass Limited,40.83,40.83,0.86,2.15%,0.31,0.0,"819,467",1000.0,40818.0
+120,GHNI,Ghandhara Industries Limited,990.25,990.25,21.68,2.24%,0.32,0.0,"367,494",43.0,42193.0
+121,GIL,Good Luck Industries Ltd.,"1,926.12","1,000.00",50.00,5.26%,0.0,0.0,0,0.0,300.0
+122,GLAXO,GlaxoSmithKline Pakistan Limited,376.11,376.11,5.86,1.58%,0.9,0.0,"503,092",318.0,119779.0
+123,GOC,GOC (Pak) Limited.,116.51,116.51,-1.81,-1.53%,0.01,0.0,369,7.0,856.0
+124,GTYR,Ghandhara Tyre & Rubber Company Limited,33.04,33.04,1.58,5.02%,0.03,0.0,"4,553,551",122.0,4029.0
+125,GVGL,Ghani Value Glass Limited,58.51,58.51,0.74,1.28%,0.07,0.0,"7,078",150.0,8773.0
+126,GWLC,Gharibwal Cement Limited,54.99,54.99,0.66,1.21%,0.17,0.0,"372,340",400.0,22011.0
+127,HAEL,Hala Enterprises Limited,29.22,29.22,2.66,10.02%,0.0,0.0,"161,198",13.0,380.0
+128,HAFL,Hafiz Limited,440.37,440.37,-9.66,-2.15%,0.0,0.0,136,1.0,528.0
+129,HALEON,Haleon Pakistan Limited,803.65,803.65,-1.55,-0.19%,0.71,0.0,"28,552",117.0,94071.0
+130,HATMNC,Hamid Textile Mills Limited,0.97,0.97,0.00,0.00%,0.0,0.0,0,13.0,13.0
+131,HCARXD,Honda Atlas Cars (Pakistan) Limited,241.38,241.38,1.01,0.42%,0.26,0.0,"503,653",143.0,34469.0
+132,HINO,Hinopak Motors Limited,432.29,432.29,4.26,1.00%,0.08,0.0,"15,766",25.0,10721.0
+133,HINOON,Highnoon Laboratories Limited,"1,007.54","1,007.54",4.84,0.48%,0.4,0.0,"141,439",53.0,53383.0
+134,HPL,Hoechst Pakistan Limited,"4,039.96","4,039.96",4.96,0.12%,0.29,0.0,64,10.0,38964.0
+135,HRPL,Habib Rice Product Limited.,21.55,21.55,0.41,1.94%,0.01,0.0,"752,781",40.0,862.0
+136,HTL,Hi-Tech Lubricants Limited,44.75,44.75,0.67,1.52%,0.05,0.0,"157,847",139.0,6229.0
+137,HUBC,The Hub Power Company Limited,233.14,233.14,-0.31,-0.13%,2.28,0.0,"2,962,891",1297.0,302419.0
+138,IBFL,Ibrahim Fibres Limited,224.27,224.27,-1.52,-0.67%,0.52,0.0,640,311.0,69637.0
+139,IBLHL,IBL HealthCare Limited,52.62,52.62,-0.40,-0.75%,0.04,0.0,"191,556",99.0,5184.0
+140,ICCI,ICC Industries Limited,14.40,14.40,0.67,4.88%,0.0,0.0,"272,586",30.0,432.0
+141,ICL,Ittehad Chemicals Limted,152.21,152.21,0.74,0.49%,0.11,0.0,"28,908",100.0,15221.0
+142,IDRT,Idrees Textile Mills Limited,42.90,42.90,-0.68,-1.56%,0.01,0.0,"63,453",20.0,852.0
+143,IDSM,Ideal Spinning Mills Limited,65.94,65.94,-3.05,-4.42%,0.0,0.0,"80,785",10.0,654.0
+144,ILP,Interloop Limited,106.18,106.18,-1.36,-1.26%,1.12,0.0,"3,212,821",1402.0,148834.0
+145,IMAGE,Image Pakistan Limited,26.04,26.04,0.08,0.31%,0.05,0.0,"234,895",230.0,5999.0
+146,INIL,International Industries Limited,169.32,169.32,0.45,0.27%,0.17,0.0,"59,395",132.0,22330.0
+147,INKL,International Knitwear Limited,96.00,96.00,-2.16,-2.20%,0.01,0.0,"9,789",10.0,929.0
+148,IPAKXB,International Packaging Films Limited,34.67,34.67,-0.34,-0.97%,0.19,0.0,"539,758",735.0,25490.0
+149,IREIT,Image Reit,8.19,8.19,0.15,1.87%,0.02,0.0,"1,517,446",276.0,2259.0
+150,ISIL,Ismail Industries Limited,"1,932.00","1,932.00",-17.55,-0.90%,0.97,0.0,607,66.0,128202.0
+151,ISL,International Steels Limited,90.18,90.18,-0.56,-0.62%,0.3,0.0,"570,429",435.0,39228.0
+152,ITANZ,Itanz Technologies Limited,41.64,41.64,-1.13,-2.64%,0.03,0.0,"1,255,949",108.0,4490.0
+153,ITTEFAQ,Ittefaq Iron Industries Limited,8.67,8.67,0.04,0.46%,0.01,0.0,"231,543",144.0,1251.0
+154,JATM,J.A. Textile Mills Limited,44.62,44.62,4.06,10.01%,0.0,0.0,"29,767",13.0,562.0
+155,JDMT,Janana De Malucho Textile Mills Limited,135.90,135.90,0.79,0.59%,0.01,0.0,"22,651",7.0,940.0
+156,JDWS,JDW Sugar Mills Limited,948.43,948.43,3.75,0.40%,0.41,0.0,517,58.0,54797.0
+157,JSML,Jauharabad Sugar Mills Limited,69.15,69.15,1.34,1.98%,0.02,0.0,"207,536",34.0,2360.0
+158,JUBSNC,Jubilee Spinning & Weaving Mills Ltd.,52.50,52.50,1.03,2.00%,0.01,0.0,"104,093",32.0,1706.0
+159,JVDC,Javedan Corporation Limited,153.48,153.48,6.28,4.27%,0.44,0.0,"3,570,218",381.0,58454.0
+160,KCL,Karam Ceramics Limited,135.38,135.38,0.00,0.00%,0.01,0.0,0,15.0,1970.0
+161,KEL,K-Electric Limited,8.33,8.33,-0.21,-2.46%,1.73,0.0,"82,666,150",27615.0,230035.0
+162,KHYT,Khyber Textile Mills Limited,"1,618.36","1,618.36",5.16,0.32%,0.01,0.0,103,1.0,1987.0
+163,KOHC,Kohat Cement Company Limited,107.12,107.12,-3.00,-2.72%,0.74,0.0,"1,407,350",919.0,98476.0
+164,KOHE,Kohinoor Energy Limited,16.64,16.64,0.17,1.03%,0.02,0.0,"254,441",169.0,2820.0
+165,KOHTM,Kohat Textile Mills Limited,161.43,161.43,-11.04,-6.40%,0.03,0.0,"727,969",21.0,3358.0
+166,KPUS,Khairpur Sugar Mills Limited,"2,299.97","2,299.97",-6.34,-0.27%,0.28,0.0,"4,308",16.0,36840.0
+167,KSBP,KSB Pumps Company Limited,202.02,202.02,-0.49,-0.24%,0.05,0.0,"19,277",31.0,6242.0
+168,KSTMNC,Khalid Siraj Textile Mills Limited,13.50,13.50,-0.68,-4.79%,0.0,0.0,"45,296",11.0,144.0
+169,KTML,Kohinoor Textile Mills Limited,54.30,54.30,-0.91,-1.65%,0.55,0.0,"569,654",1346.0,73115.0
+170,LCI,Lucky Core Industries Limited,246.93,246.93,10.29,4.35%,0.86,0.0,"684,810",462.0,114031.0
+171,LEUL,Leather Up Limited,41.14,41.14,-0.67,-1.60%,0.0,0.0,"3,184",6.0,247.0
+172,LIVEN,Liven Pharma Limited,40.18,40.18,-0.54,-1.33%,0.03,0.0,"59,244",113.0,4542.0
+173,LOADS,Loads Limited,14.48,14.48,0.14,0.98%,0.04,0.0,"3,150,488",371.0,5376.0
+174,LOTCHEM,Lotte Chemical Pakistan Limited,28.19,28.19,0.12,0.43%,0.32,0.0,"13,241,887",1514.0,42686.0
+175,LPGL,Leiner Pak Gelatine Limited,100.04,100.04,-0.02,-0.02%,0.01,0.0,"5,938",8.0,750.0
+176,LUCK,Lucky Cement Limited,472.38,472.38,2.86,0.61%,5.21,0.0,"2,038,908",1465.0,692037.0
+177,MACFL,MACPAC Films Limited,67.50,67.50,0.51,0.76%,0.03,0.0,"47,505",59.0,4003.0
+178,MACTER,Macter International Limited,274.18,274.18,0.21,0.08%,0.09,0.0,"9,355",46.0,12560.0
+179,MARI,Mari Energies Limited,673.75,673.75,-0.54,-0.08%,6.09,0.0,"773,978",1201.0,808919.0
+180,MEBL,Meezan Bank Limited,553.45,553.45,36.99,7.16%,7.5,0.0,"3,775,484",1801.0,996517.0
+181,MEHT,Mehmood Textile Mills Limited,239.00,239.00,-0.28,-0.12%,0.05,0.0,"1,420",30.0,7170.0
+182,MERIT,Merit Packaging Limited,10.17,10.17,0.06,0.59%,0.02,0.0,"61,969",200.0,2034.0
+183,MFFL,Mitchells Fruit Farms Limited,180.77,180.77,0.72,0.40%,0.03,0.0,"9,971",23.0,4135.0
+184,MFL,Matco Foods Limited,46.48,46.48,-0.90,-1.90%,0.04,0.0,"1,401,712",122.0,5689.0
+185,MIRKS,Mirpurkhas Sugar Mills Limited,36.00,36.00,-0.54,-1.48%,0.02,0.0,"160,800",67.0,2396.0
+186,MLCF,Maple Leaf Cement Factory Limited,107.43,107.43,0.52,0.49%,0.85,0.0,"20,049,681",1048.0,112540.0
+187,MQTM,Maqbool Textile Mills Limited,23.21,23.21,1.63,7.55%,0.0,0.0,"23,526",18.0,428.0
+188,MRNS,Mehran Sugar Mills Limited,64.18,64.18,1.16,1.84%,0.04,0.0,"145,797",75.0,4809.0
+189,MSCL,Metropolitan Steel Corporation Limited,28.24,28.24,-0.01,-0.03%,0.01,0.0,"46,974",31.0,875.0
+190,MTL,Millat Tractors Limited,305.21,305.21,0.26,0.08%,0.92,0.0,"317,997",399.0,121789.0
+191,MUBTNC,Mubarak Textile Mills Limited,3.85,3.85,-1.00,-20.62%,0.0,0.0,0,5.0,21.0
+192,MUGHAL,Mughal Iron & Steel Industries Limited,88.35,88.35,0.74,0.85%,0.22,0.0,"2,287,765",336.0,29653.0
+193,MWMP,Mandviwala Mauser Plastic Industries,66.02,66.02,1.02,1.57%,0.01,0.0,"3,359",29.0,1898.0
+194,NATM,Nadeem Textile Mills Limited,84.49,84.49,0.00,0.00%,0.01,0.0,0,21.0,1797.0
+195,NCMLNC,Nazir Cotton Mills Limited,13.80,13.80,0.39,2.91%,0.0,0.0,"19,882",23.0,317.0
+196,NESTLE,Nestle Pakistan Limited,"7,678.79","7,678.79",15.30,0.20%,2.62,0.0,172,45.0,348230.0
+197,NETSOL,NetSol Technologies Limited,133.52,133.52,-0.09,-0.07%,0.09,0.0,"192,948",90.0,11995.0
+198,NML,Nishat Mills Limited,160.42,160.42,2.56,1.62%,0.42,0.0,"2,719,803",352.0,56404.0
+199,NONS,Noon Sugar Mills Limited,91.94,91.94,-1.07,-1.15%,0.01,0.0,"2,315",17.0,1519.0
+200,NRL,National Refinery Limited,366.62,366.62,4.13,1.14%,0.22,0.0,"402,561",80.0,29317.0
+201,NRSL,Nimir Resins Limited,35.00,35.00,-0.03,-0.09%,0.04,0.0,"234,411",141.0,4946.0
+202,NSRM,The National Silk & Rayon Mills Limited,193.00,193.00,4.66,2.47%,0.02,0.0,"1,060",16.0,3002.0
+203,OCTOPUS,Octopus Digital Limited,34.70,34.70,0.34,0.99%,0.04,0.0,"2,140,561",157.0,5457.0
+204,OGDC,Oil & Gas Development Company Limited,334.91,334.91,0.04,0.01%,10.85,0.0,"3,716,723",4301.0,1440424.0
+205,OLPM,OLP Modaraba,25.11,25.11,0.14,0.56%,0.01,0.0,"1,402",45.0,1140.0
+206,OML,Olympia Mills Limited,41.58,41.58,3.78,10.00%,0.0,0.0,"27,467",12.0,499.0
+207,ORM,Orient Rental Mod,10.61,10.61,0.31,3.01%,0.01,0.0,"103,845",75.0,796.0
+208,OTSU,Otsuka Pakistan Limited,364.10,364.10,-0.90,-0.25%,0.03,0.0,"69,798",12.0,4406.0
+209,PAEL,Pak Elektron Limited,45.42,45.42,-0.03,-0.07%,0.32,0.0,"10,840,203",924.0,41952.0
+210,PAKD,Pak Datacom Limited,126.93,126.93,-0.07,-0.05%,0.01,0.0,"28,186",12.0,1505.0
+211,PAKOXY,Pakistan Oxygen Limited,304.74,304.74,0.57,0.19%,0.2,0.0,"21,208",87.0,26550.0
+212,PAKQATAR,Pak Qatar Family Takaful Limited,23.58,23.58,1.98,9.17%,0.04,0.0,"24,952,487",231.0,5440.0
+213,PIBTL,Pakistan International Bulk Terminal,18.85,18.85,-0.23,-1.20%,0.25,0.0,"20,096,607",1786.0,33668.0
+214,PICT,Pakistan International Container,39.98,39.98,1.28,3.31%,0.03,0.0,"341,115",109.0,4364.0
+215,PIM,Popular Islamic Modaraba,22.55,22.55,0.00,0.00%,0.0,0.0,46,20.0,451.0
+216,PIOC,Pioneer Cement Limited,280.46,280.46,-2.91,-1.03%,0.48,0.0,"199,318",227.0,63706.0
+217,PKGS,Packages Limited,800.07,800.07,-9.87,-1.22%,0.54,0.0,"18,667",89.0,71510.0
+218,PMRS,The Premier Sugar Mills,754.07,754.07,-7.38,-0.97%,0.02,0.0,"2,604",4.0,2828.0
+219,POML,Punjab Oil Mills Limited,169.79,169.79,2.56,1.53%,0.01,0.0,"16,585",8.0,1318.0
+220,POWER,Power Cement Limited,23.55,23.55,0.52,2.26%,0.23,0.0,"2,107,444",1291.0,30392.0
+221,PPL,Pakistan Petroleum Limited,243.74,243.74,1.12,0.46%,4.99,0.0,"3,456,873",2721.0,663209.0
+222,PPP,Pakistan Paper Products Limited,136.83,136.83,2.77,2.07%,0.01,0.0,"29,946",8.0,1095.0
+223,PQGTL,Pak Qatar General Takaful Limited,15.94,15.94,0.48,3.11%,0.01,0.0,"5,199,055",101.0,1612.0
+224,PREMA,At-Tahur Limited,35.59,35.59,-0.18,-0.50%,0.06,0.0,"1,442,730",219.0,7781.0
+225,PRL,Pakistan Refinery Limited,36.24,36.24,0.57,1.60%,0.17,0.0,"5,111,336",630.0,22831.0
+226,PSEL,Pakistan Services Limited,930.13,930.13,-13.69,-1.45%,0.23,0.0,782,33.0,30252.0
+227,PSO,Pakistan State Oil Company Limited,346.12,346.12,3.77,1.10%,1.22,0.0,"2,785,134",469.0,162494.0
+228,PSYL,Pakistan Synthetics Limited,138.30,138.30,-2.73,-1.94%,0.14,0.0,365,139.0,19182.0
+229,PTL,Panther Tyres Ltd.,58.73,58.73,0.39,0.67%,0.07,0.0,"955,990",168.0,9867.0
+230,QTECH,Quantum Data Technologies Limited,43.94,43.94,1.14,2.66%,0.04,0.0,"985,346",122.0,5342.0
+231,QUETNC,Quetta Textile Mills Limited,16.31,16.31,-0.27,-1.63%,0.0,0.0,"115,579",13.0,212.0
+232,QUICE,Quice Food Industries Limited,34.30,34.30,0.29,0.85%,0.03,0.0,"742,692",98.0,3377.0
+233,REDCO,Redco Textiles Limited,30.59,30.59,0.83,2.79%,0.01,0.0,"4,475",49.0,1508.0
+234,REWM,Reliance Weaving Mills Limited,173.51,173.51,8.89,5.40%,0.04,0.0,831,31.0,5346.0
+235,RMPL,Rafhan Maize Products Company Limited,"9,541.26","9,541.26",21.57,0.23%,0.66,0.0,37,9.0,88127.0
+236,RPL,Roshan Packages Limited,16.52,16.52,-0.02,-0.12%,0.02,0.0,"138,032",142.0,2344.0
+237,RUBYNC,Ruby Textile Mills Limited,18.19,18.19,0.38,2.13%,0.01,0.0,"99,820",52.0,950.0
+238,RUPL,Rupali Polyester Limited,28.67,28.67,1.57,5.79%,0.01,0.0,"22,730",34.0,977.0
+239,SANSM,Sanghar Sugar Mills Limited,133.69,133.69,10.77,8.76%,0.01,0.0,"2,156",12.0,1597.0
+240,SAPT,Sapphire Textile Mills Limited,"1,524.24","1,524.24",33.66,2.26%,0.25,0.0,195,22.0,33060.0
+241,SARC,Sardar Chemical Industries Limited,77.04,77.04,6.98,9.96%,0.0,0.0,"137,564",6.0,462.0
+242,SASML,Sindh Abadgars Sugar Mills Limited,379.51,379.51,-2.78,-0.73%,0.03,0.0,151,10.0,3956.0
+243,SAZEW,Sazgar Engineering Works Limited,"2,088.03","2,088.03",24.54,1.19%,0.95,0.0,"117,789",60.0,126213.0
+244,SCL,Shield Corporation Limited,763.63,763.63,10.63,1.41%,0.02,0.0,219,4.0,2978.0
+245,SEARL,The Searle Company Limited,94.58,94.58,0.04,0.04%,0.42,0.0,"1,983,501",588.0,55634.0
+246,SEL,Sitara Energy Limited,30.91,30.91,-0.10,-0.32%,0.0,0.0,"8,202",19.0,590.0
+247,SERT,Service Industries Textiles Limited,39.82,39.82,0.36,0.91%,0.0,0.0,"30,682",14.0,549.0
+248,SGABLNC,SG.Allied Businesses Limited,126.00,126.00,0.00,0.00%,0.01,0.0,0,15.0,1890.0
+249,SGF,Service GlobalFootwear Limited,122.35,122.35,0.43,0.35%,0.19,0.0,"210,834",206.0,25261.0
+250,SGPL,S.G. Power Limited,88.15,88.15,8.01,10.00%,0.01,0.0,"4,958,617",18.0,1572.0
+251,SHCM,Shadman Cotton Mills Limited,49.99,49.99,0.00,0.00%,0.01,0.0,8,18.0,882.0
+252,SHDT,Shadab Textile Mills Limited,70.40,70.40,1.32,1.91%,0.01,0.0,"522,433",23.0,1609.0
+253,SHFA,Shifa International Hospitals Limited,504.28,504.28,-1.21,-0.24%,0.24,0.0,"17,447",63.0,31878.0
+254,SHSML,Shahmurad Sugar Mills Limited,381.26,381.26,0.95,0.25%,0.06,0.0,"1,270",21.0,8052.0
+255,SIEM,Siemens (Pakistan) Engineering,"1,533.14","1,533.14",-31.61,-2.02%,0.1,0.0,213,8.0,12644.0
+256,SINDM,Sindh Modaraba,22.66,22.66,-0.03,-0.13%,0.01,0.0,"9,844",45.0,1020.0
+257,SITC,Sitara Chemical Industries Limited,860.43,860.43,1.82,0.21%,0.14,0.0,"17,968",21.0,18439.0
+258,SKRSNC,Sakrand Sugar Mills Limited,27.70,27.70,0.56,2.06%,0.01,0.0,"107,936",45.0,1236.0
+259,SLGL,Secure Logistics-Trax Group Limited,16.78,16.78,0.37,2.26%,0.05,0.0,"3,941,734",422.0,7078.0
+260,SLM,Service Long March Tyres Limited,25.28,25.28,-0.10,-0.39%,1.48,0.0,"12,102,110",7795.0,197052.0
+261,SMCPL,Safe Mix Concrete Limited,46.00,46.00,-0.20,-0.43%,0.01,0.0,"6,538",25.0,1150.0
+262,SMLNC,Shakarganj Limited,118.10,118.10,0.00,0.00%,0.11,0.0,62,125.0,14763.0
+263,SNAI,Sana Industries Limited,37.81,37.81,0.00,0.00%,0.01,0.0,30,20.0,755.0
+264,SNGP,Sui Northern Gas Pipelines Limited,119.63,119.63,-1.30,-1.07%,0.57,0.0,"2,057,120",634.0,75871.0
+265,SPEL,SPEL Limited,53.16,53.16,1.42,2.74%,0.08,0.0,"1,679,742",200.0,10618.0
+266,SPLNC,Sitara Peroxide Limited,65.45,65.45,-0.62,-0.94%,0.03,0.0,"39,583",55.0,3606.0
+267,SPSL,Sitara Petroleum Service Limited,19.20,19.20,-0.36,-1.84%,0.24,0.0,"15,254,417",1680.0,32254.0
+268,SRR,Signature Residency Reit,16.20,16.20,-0.06,-0.37%,0.0,0.0,"68,889",33.0,535.0
+269,SRVI,Service Industries Limited,"2,344.15","2,344.15",3.39,0.15%,0.83,0.0,"18,660",47.0,110146.0
+270,SSGC,Sui Southern Gas Company Limited,31.85,31.85,-0.23,-0.72%,0.21,0.0,"8,089,276",881.0,28057.0
+271,SSMLNC,Saritow Spinning Mills Limited,24.11,24.11,-1.21,-4.78%,0.01,0.0,"7,483",30.0,719.0
+272,SSOM,S.S.Oil Mills Limited,461.48,461.48,2.66,0.58%,0.02,0.0,"52,951",6.0,2611.0
+273,STCL,Shabbir Tiles & Ceramics Limited,11.20,11.20,0.41,3.80%,0.02,0.0,"906,528",239.0,2680.0
+274,STJT,Shahtaj Textile Limited,147.89,147.89,4.04,2.81%,0.01,0.0,"1,499",10.0,1429.0
+275,STL,Supernet Technologies Limited,51.50,51.50,1.88,3.79%,0.04,0.0,"1,689,851",108.0,5542.0
+276,STML,Shams Textile Mills Limited,44.48,44.48,0.00,0.00%,0.0,0.0,309,9.0,384.0
+277,STYLERS,Stylers International Limited,52.48,52.48,0.37,0.71%,0.19,0.0,"8,897",489.0,25654.0
+278,SUHJNC,Suhail Jute Mills Limited,154.74,154.74,14.07,10.00%,0.01,0.0,"2,271",4.0,670.0
+279,SURC,Suraj Cotton Mills Limited,142.62,142.62,0.52,0.37%,0.05,0.0,"22,550",49.0,6961.0
+280,SWLNC,Standard Worldwide Limited,261.59,44.00,0.00,0.00%,0.0,0.0,0,1.0,33.0
+281,SYM,Symmetry Group Limited,11.70,11.70,-0.33,-2.74%,0.03,0.0,"8,616,711",285.0,3337.0
+282,SYS,Systems Limited,149.57,149.57,2.48,1.69%,1.66,0.0,"1,614,217",1473.0,220377.0
+283,SZTM,Shahzad Textile Mills Limited,95.00,95.00,8.64,10.01%,0.01,0.0,"10,362",18.0,1707.0
+284,TATM,Tata Textile Mills Limited,146.25,146.25,9.21,6.72%,0.06,0.0,"985,751",56.0,8189.0
+285,TCORPXR,Tariq Corporation Limited,23.40,23.40,-0.05,-0.21%,0.01,0.0,"21,758",66.0,1549.0
+286,TELE,Telecard Limited,9.02,9.02,0.15,1.69%,0.02,0.0,"6,680,749",339.0,3054.0
+287,TGL,Tariq Glass Industries Limited,198.57,198.57,5.39,2.79%,0.26,0.0,"263,349",172.0,34187.0
+288,THCCL,Thatta Cement Company Limited,68.47,68.47,2.81,4.28%,0.26,0.0,"6,237,100",499.0,34139.0
+289,TICL,The Thal Industries Corporation Limited,960.97,960.97,87.36,10.00%,0.11,0.0,"6,058",15.0,14437.0
+290,TOMCL,The Organic Meat Company Limited,43.57,43.57,-0.19,-0.43%,0.06,0.0,"2,785,725",196.0,8555.0
+291,TOWL,Towellers Limited,131.10,131.10,-2.13,-1.60%,0.02,0.0,"19,358",17.0,2229.0
+292,TPLRF1,TPL REIT Fund I,10.53,10.53,0.60,6.04%,0.15,0.0,"6,753,392",1835.0,19323.0
+293,TREET,Treet Corporation Limited,25.89,25.89,0.78,3.11%,0.07,0.0,"8,843,244",371.0,9606.0
+294,TRSM,Trust Modaraba,16.31,16.31,0.04,0.25%,0.0,0.0,"965,148",30.0,486.0
+295,UBDL,United Brands Limited,24.82,24.82,-0.37,-1.47%,0.02,0.0,"30,949",92.0,2278.0
+296,UDLI,UDL International Limited,18.91,18.91,-0.20,-1.05%,0.01,0.0,"127,077",35.0,664.0
+297,UDPL,United Distributors Pakistan Limited,119.45,119.45,-0.44,-0.37%,0.03,0.0,"41,012",35.0,4213.0
+298,UNITY,Unity Foods Limited,10.91,10.91,0.09,0.83%,0.1,0.0,"6,252,818",1194.0,13027.0
+299,UPFL,Unilever Pakistan Foods Limited,"25,699.00","25,699.00",94.80,0.37%,1.23,0.0,31,6.0,163701.0
+300,WAFI,Wafi Energy Pakistan Limited,193.86,193.86,0.86,0.45%,0.31,0.0,"110,663",214.0,41491.0
+301,WAHDAT,Wahdat Poultry Farm Limited,19.10,19.10,0.51,2.74%,0.05,0.0,"4,801,779",335.0,6403.0
+302,WAHN,Wah Noble Chemicals Limited,292.03,292.03,0.48,0.17%,0.02,0.0,"3,250",9.0,2628.0
+303,WASL,Wasl Mobility Modaraba,5.55,5.55,0.15,2.78%,0.01,0.0,"547,259",161.0,892.0
+304,WAVES,Waves Corporation Limited,10.91,10.91,0.21,1.96%,0.02,0.0,"1,677,105",281.0,3070.0
+305,ZAHID,Zahidjee Textile Mills Limited,66.18,66.18,0.18,0.27%,0.1,0.0,"13,013",191.0,12668.0
+306,ZAL,Zarea Limited,45.42,45.42,0.42,0.93%,0.09,0.0,"1,585,658",263.0,11923.0
+307,ZIL,ZIL Limited,341.98,341.98,-2.41,-0.70%,0.02,0.0,"1,256",6.0,2094.0
+308,ZTL,Zephyr Textiles Limited,22.05,22.05,-1.42,-6.05%,0.01,0.0,"736,643",59.0,1310.0
