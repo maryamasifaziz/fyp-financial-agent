@@ -1,0 +1,15 @@
+# Pre-existing local staging area — not yet vetted/ingested into raw_education/raw_market.
+# See CONTEXT.md Section 10 and metadata/TODO.md. Do NOT add raw_education/ or raw_market/ here.
+/data/
+/01_Finance_Fundamentals/
+/02_PSX_Guides/
+/03_SECP_Guides/
+/04_Books/
+/05_Articles/
+/06_Research_Papers/
+/07_YouTube_Transcripts/
+/08_Notes/
+
+# OS junk
+.DS_Store
+Thumbs.db
