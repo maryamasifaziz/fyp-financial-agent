@@ -13,3 +13,6 @@
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Cowork platform metadata, not knowledge-base content
+/AGENTS.md

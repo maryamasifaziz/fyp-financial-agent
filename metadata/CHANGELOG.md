@@ -63,3 +63,28 @@ changes. Document additions go in `MANIFEST.md`, not here.
   `metadata/TODO.md`) — 64 truncated annual-report files were detected by size mismatch
   against the robocopy'd source and replaced before logging anything in MANIFEST.md.
 - `data/` itself is left untouched on disk (copied, not moved) per Section 10.
+
+## 2026-07-06 — Switched to Git LFS for PDFs at ~8.6 GB
+
+- Repo size reached ~8.6 GB after the Phase 2 ingest (mostly PDF filings and
+  announcements), well past the "several gigabytes" threshold Section 1 flagged as the
+  point to revisit plain Git tracking. Per that section's instruction to ask before
+  making this change rather than doing it unilaterally, confirmed with the user before
+  switching.
+- Enabled Git LFS (`git lfs install`) and added `.gitattributes` tracking `*.pdf` and
+  `*.Z` (the compressed PSX company-announcements feed) — the two binary file types
+  making up nearly all of the repo's size. All other tracked files (CSV, JSON, MD)
+  remain plain Git objects.
+- Motivation beyond repo size: plain `git push` was repeatedly failing on a slow,
+  unstable connection — pushes over ~800MB were dropping mid-transfer (connection
+  resets, intermittent DNS failures), and GitHub also hard-rejects any single push pack
+  over 2 GB. LFS uploads each file individually over plain HTTP, so a dropped
+  connection only costs that one file's retry instead of restarting an entire
+  multi-hundred-MB (or multi-GB) pack transfer.
+- Ten speculative non-LFS commits from an earlier chunked-push attempt (splitting
+  annual/quarterly filings by year to stay under the 2GB pack limit) were reset and
+  discarded before making this switch — none of them had successfully reached the
+  remote, so no history was lost.
+- Going forward, any new PDF (or `.Z`) additions to this repo will automatically be
+  tracked via LFS per `.gitattributes` — no extra step needed when adding future
+  documents, `git add`/`git commit` handle it transparently.

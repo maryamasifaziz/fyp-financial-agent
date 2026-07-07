@@ -52,3 +52,6 @@ session (CONTEXT.md Section 4, Section 8).
       byte-identical to 2025-03-19.pdf — likely a genuine upstream data error (same report
       saved under two dates). Only 2025-03-19.pdf will be copied into the repo; noting the
       anomaly here rather than silently dropping it.
+- [ ] CSV/JSON files intentionally kept out of Git LFS (current max ~300KB, total ~9MB).
+      Revisit only if a future source produces individual files in the multi-MB range
+      (e.g. intraday/tick data instead of daily).

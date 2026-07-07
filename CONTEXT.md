@@ -62,7 +62,8 @@ projectdata/
 │   ├── 11_Technical_Analysis/
 │   ├── 12_Macroeconomics/
 │   ├── 13_Pakistan_Economy/
-│   └── 14_Glossary/
+│   ├── 14_Glossary/
+│   └── 15_Regulations_Compliance/
 ├── raw_market/
 │   ├── company_annual_reports/
 │   ├── company_quarterly_reports/
